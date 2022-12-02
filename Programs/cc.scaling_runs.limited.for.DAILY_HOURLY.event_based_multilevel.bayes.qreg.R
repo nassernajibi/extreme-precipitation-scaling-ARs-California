@@ -16,7 +16,7 @@ setwd("D:/Projects/CA_CCscaling")
 
 #------------------------------------------------------#
 #------------------------------------------------------#
-# Multilevel Model # for Ta and Td
+# Hierarchical Bayesian Quantile Regression for Ta and Td #
 #------------------------------------------------------#
 #------------------------------------------------------#
 # for 2 states of ARs: non-AR, ARx formulation
