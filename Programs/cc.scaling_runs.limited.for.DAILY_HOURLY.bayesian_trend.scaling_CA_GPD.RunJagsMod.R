@@ -18,13 +18,10 @@ library(stringr)
 
 setwd("D:/Projects/CA_CCscaling")
 
-#****************************** ##
-##/--  Hierarchical Bayesian Trend Scaling ----  \##
-#****************************** ##
 
 #------------------------------------------------------#
 #------------------------------------------------------#
-# Multilevel Model # for Ta and Td
+# Hierarchical Bayesian Trend Scaling                  #
 #------------------------------------------------------#
 #------------------------------------------------------#
 # for 2 states of ARs: non-AR, ARx formulation
