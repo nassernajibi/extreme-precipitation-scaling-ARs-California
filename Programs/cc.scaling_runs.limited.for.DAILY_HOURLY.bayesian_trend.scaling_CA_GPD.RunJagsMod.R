@@ -18,10 +18,8 @@ library(stringr)
 
 setwd("D:/Projects/CA_CCscaling")
 
-#-- Problem with runjags after updating RStudio - as of July 21, 2022
-
 #****************************** ##
-##/--  Bayesian GPD fits ----  \##
+##/--  Hierarchical Bayesian Trend Scaling ----  \##
 #****************************** ##
 
 #------------------------------------------------------#
