@@ -14,7 +14,7 @@ Version 1.0 December 2022
 - If you have comments, please contact the correspondence of this repository [Nasser Najibi](https://nassernajibi.com) directly.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nassernajibi/hierarchical-Bayesian-quantile-regression-model/blob/ef2c5dc5bcee79bddd2158fb43f23879a0798066/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California/blob/243546f5fdb41a383e51c5e7904af5faa8d1422d/LICENSE.md) file for details.
 
 **Disclaimer:**
 You are running the scripts/functions that means you will not blame the author(s)/developer(s) if they break your stuff.
