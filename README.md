@@ -2,6 +2,8 @@
 A repo for "Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers"
 by Nasser Najibi and Scott Steinschneider, 
 
+### How to cite
+
 Najibi, N., Steinschneider, S. (2023). Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers. *[Geophysical Research Letters](https://doi.org/10.1029/2023GL104606)*, 50(14), 1-11.
 ```bibtex
 @article{https://doi.org/10.1029/2023GL104606,
