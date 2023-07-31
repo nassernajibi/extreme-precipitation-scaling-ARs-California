@@ -14,8 +14,6 @@ pages = {e2023GL104606},
 keywords = {extreme precipitation, atmospheric rivers, temperature, climate change, Clausius-Clapeyron relationship, California},
 doi = {https://doi.org/10.1029/2023GL104606},
 url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL104606},
-eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023GL104606},
-note = {e2023GL104606 2023GL104606},
 year = {2023}
 }
 
