@@ -6,17 +6,15 @@ by Nasser Najibi and Scott Steinschneider (2023)
 
 Najibi, N., Steinschneider, S. (2023). Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers. *[Geophysical Research Letters](https://doi.org/10.1029/2023GL104606)*, 50(14), 1-11.
 ```bibtex
-@article{https://doi.org/10.1029/2023GL104606,
-author = {Najibi, Nasser and Steinschneider, Scott},
-title = {Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers},
-journal = {Geophysical Research Letters},
-volume = {50},
-number = {14},
-pages = {e2023GL104606},
-keywords = {extreme precipitation, atmospheric rivers, temperature, climate change, Clausius-Clapeyron relationship, California},
-doi = {https://doi.org/10.1029/2023GL104606},
-url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL104606},
-year = {2023}
+@article{najibi2023extreme,
+  title={Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers},
+  author={Najibi, Nasser and Steinschneider, Scott},
+  journal={Geophysical Research Letters},
+  volume={50},
+  number={14},
+  pages={e2023GL104606},
+  year={2023},
+  publisher={Wiley Online Library}
 }
 
 ```
