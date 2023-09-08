@@ -1,3 +1,9 @@
+![GitHub](https://img.shields.io/github/license/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California)
+![GitHub repo size](https://img.shields.io/github/repo-size/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California)
+![GitHub language count](https://img.shields.io/github/languages/count/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California)
+![GitHub last commit](https://img.shields.io/github/last-commit/nassernajibi/Extreme-Precipitation-Temperature-Scaling-in-California)
+
 # ARs-Precipitation-Temperature-Scaling-in-California
 A repo for "Extreme Precipitation-Temperature Scaling in California: The Role of Atmospheric Rivers"
 by Nasser Najibi and Scott Steinschneider (2023)
